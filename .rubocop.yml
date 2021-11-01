@@ -11,7 +11,7 @@ Style/FrozenStringLiteralComment:
   Enabled: false
   
 Style/EndOfLine:
-  EnforcedStyle: false
+  EnforcedStyle: native
 
 Metrics/MethodLength:
   Max: 20
