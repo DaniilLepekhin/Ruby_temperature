@@ -9,6 +9,9 @@ Style/Documentation:
 
 Style/FrozenStringLiteralComment:
   Enabled: false
+  
+Style/EndOfLine:
+  EnforcedStyle: lf
 
 Metrics/MethodLength:
   Max: 20
