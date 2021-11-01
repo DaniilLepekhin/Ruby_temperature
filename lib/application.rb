@@ -1,6 +1,5 @@
 require './lib/io_interface'
 require './lib/temperature'
-
 class Application
   def run
     io_inteface = IOInterface.new
