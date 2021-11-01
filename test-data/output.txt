@@ -1,9 +1,0 @@
-Invalid value entered (integer or float number)
-An incorrect scale was entered ("F", "C" or "K")
-The entered scales are the same
-Enter a value:
-Enter the source scale ("F", "C" or "K"):
-Enter the target scale:
-To exit, enter "stop" or "next" to continue
-Result = 10
-Coverage report generated for RSpec to D:/Sibsutis/4 course/1 semester/ОПО/ruby-starter-project/coverage. 52 / 59 LOC (88.14%) covered.
