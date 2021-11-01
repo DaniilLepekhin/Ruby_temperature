@@ -11,7 +11,7 @@ Style/FrozenStringLiteralComment:
   Enabled: false
   
 Style/EndOfLine:
-  EnforcedStyle: crlf
+  EnforcedStyle: false
 
 Metrics/MethodLength:
   Max: 20
