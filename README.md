@@ -1,6 +1,6 @@
 # Ruby Starter Project
 
-![Unit Tests & Lint](https://github.com/DaniilGit/ruby-temperature-converter/workflows/Unit%20Tests%20&%20Lint/badge.svg)
+![Test](https://github.com/DaniilLepekhin/Ruby_temperature/actions/workflows/main.yml/badge.svg?branch=master)
 
 
 ## Install
